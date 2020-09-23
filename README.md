@@ -85,3 +85,68 @@ Following is a list of some important features of Node.js that makes it the firs
 5. No buffering: Node.js cuts down the overall processing time while uploading audio and video files. Node.js applications never buffer any data. These applications simply output the data in chunks.
 6. Open source: Node.js has an open source community which has produced many excellent modules to add additional capabilities to Node.js applications.
 7. License: Node.js is released under the MIT license.
+
+# Expressjs
+
+<b>What is Express.js</b>
+
+Express is a fast, assertive, essential and moderate web framework of Node.js. You can assume express as a layer built on the top of the Node.js that helps manage a server and routes. It provides a robust set of features to develop web and mobile applications.
+
+<b>Let's see some of the core features of Express framework:</b>
+
+1. It can be used to design single-page, multi-page and hybrid web applications.
+2. It allows to setup middlewares to respond to HTTP Requests.
+3. It defines a routing table which is used to perform different actions based on HTTP method and URL.
+4. It allows to dynamically render HTML Pages based on passing arguments to templates.
+
+<b>Why use Express</b>
+
+1. Ultra fast I/O
+2. Asynchronous and single threaded
+3. MVC like structure
+4. Robust API makes routing easy
+
+# Angularjs
+
+</b>What is AngularJS<b>
+Angular JS is an open source JavaScript framework that is used to build web applications. It can be freely used, changed and shared by anyone.
+
+Angular Js is developed by Google.
+
+It is an excellent framework for building single phase applications and line of business applications.
+
+<b>Advantage of AngularJS</b>
+
+There are a lot of JavaScript frameworks for building web applications. So, it is a genuine question, why to use Angular JS.
+
+Following are the advantages of AngularJS over other JavaScript frameworks:
+
+1. Dependency Injection: Dependency Injection specifies a design pattern in which components are given their dependencies instead of hard coding them within the component.
+2. Two way data binding: AngularJS creates a two way data-binding between the select element and the orderProp model. orderProp is then used as the input for the orderBy filter.
+3. Testing: Angular JS is designed in a way that we can test right from the start. So, it is very easy to test any of its components through unit testing and end-to-end testing.
+4. Model View Controller: In Angular JS, it is very easy to develop application in a clean MVC way. You just have to split your application code into MVC components i.e. Model, View and the Controller.
+5. Directives, filters, modules, routes etc.
+
+# Reactjs
+
+</b>Why learn ReactJS?</b>
+
+Today, many JavaScript frameworks are available in the market(like angular, node), but still, React came into the market and gained popularity amongst them. The previous frameworks follow the traditional data flow structure, which uses the DOM (Document Object Model). DOM is an object which is created by the browser each time a web page is loaded. It dynamically adds or removes the data at the back end and when any modifications were done, then each time a new DOM is created for the same page. This repeated creation of DOM makes unnecessary memory wastage and reduces the performance of the application.
+
+Therefore, a new technology ReactJS framework invented which remove this drawback. ReactJS allows you to divide your entire application into various components. ReactJS still used the same traditional data flow, but it is not directly operating on the browser's Document Object Model (DOM) immediately; instead, it operates on a virtual DOM. It means rather than manipulating the document in a browser after changes to our data, it resolves changes on a DOM built and run entirely in memory. After the virtual DOM has been updated, React determines what changes made to the actual browser's DOM. The React Virtual DOM exists entirely in memory and is a representation of the web browser's DOM. Due to this, when we write a React component, we did not write directly to the DOM; instead, we are writing virtual components that react will turn into the DOM.
+
+# Vuejs
+
+Vue.js is an open-source progressive JavaScript framework used to develop interactive web user interfaces and single-page applications. Vue.js is mainly focused on the view part of the application that is also called front end development. Vue.js is going popular day by day because it is very easy to integrate with other projects and libraries. It is very simple to install and use. Even beginners can understand it easily and start building their own user interfaces.
+
+
+<b>What is Vue.js?</b>
+Vue.js is an open-source progressive JavaScript framework used to develop interactive web user interfaces and single-page applications (SPAs). Vue.js is commonly referred to as Vue and pronounced as "view.js" or "view."
+
+<b>What is a Single Page Application (SPA)?</b>
+
+A single page application or SPA is a web application or a website that provides users a very fluid, reactive, and fast experience similar to a desktop application. A single page application contains a menu, buttons, and blocks on a single page. When a user clicks on any of them, it dynamically rewrites the current page rather than loading entire new pages from a server. That's the reason behind its reactive fast speed.
+
+Vue is basically developed for frontend development, so it has to deal with a lot of HTML, JavaScript, and CSS files. Vue.js facilitates users to extend HTML with HTML attributes called directives. Vue.js provides built-in directives and a lot of user-defined directives to enhance functionality to HTML applications.
+
+
