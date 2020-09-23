@@ -108,7 +108,7 @@ Express is a fast, assertive, essential and moderate web framework of Node.js. Y
 
 # Angularjs
 
-</b>What is AngularJS<b>
+</b>What is AngularJS</b>
 Angular JS is an open source JavaScript framework that is used to build web applications. It can be freely used, changed and shared by anyone.
 
 Angular Js is developed by Google.
@@ -129,7 +129,7 @@ Following are the advantages of AngularJS over other JavaScript frameworks:
 
 # Reactjs
 
-</b>Why learn ReactJS?</b>
+<b>Why learn ReactJS?</b>
 
 Today, many JavaScript frameworks are available in the market(like angular, node), but still, React came into the market and gained popularity amongst them. The previous frameworks follow the traditional data flow structure, which uses the DOM (Document Object Model). DOM is an object which is created by the browser each time a web page is loaded. It dynamically adds or removes the data at the back end and when any modifications were done, then each time a new DOM is created for the same page. This repeated creation of DOM makes unnecessary memory wastage and reduces the performance of the application.
 
@@ -148,5 +148,3 @@ Vue.js is an open-source progressive JavaScript framework used to develop intera
 A single page application or SPA is a web application or a website that provides users a very fluid, reactive, and fast experience similar to a desktop application. A single page application contains a menu, buttons, and blocks on a single page. When a user clicks on any of them, it dynamically rewrites the current page rather than loading entire new pages from a server. That's the reason behind its reactive fast speed.
 
 Vue is basically developed for frontend development, so it has to deal with a lot of HTML, JavaScript, and CSS files. Vue.js facilitates users to extend HTML with HTML attributes called directives. Vue.js provides built-in directives and a lot of user-defined directives to enhance functionality to HTML applications.
-
-
